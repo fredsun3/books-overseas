@@ -15,8 +15,7 @@ export const COUNTRIES = [
   { id: 'AU', name: '澳大利亚', nameEn: 'Australia' },
   { id: 'CA', name: '加拿大', nameEn: 'Canada' },
   { id: 'VA', name: '梵蒂冈', nameEn: 'Vatican City' },
-  { id: 'VA', name: '梵蒂冈', nameEn: 'Vatican City' },
-];
+  ];
 
 export const DYNASTIES = [
   { id: 'all', name: '全部朝代', nameEn: 'All Dynasties' },
@@ -90,8 +89,7 @@ export const INSTITUTIONS = [
   { id: 'LAC', name: '加拿大图书档案馆', nameEn: 'Library and Archives Canada', country: 'CA' },
   { id: 'UBC', name: '不列颠哥伦比亚大学', nameEn: 'University of British Columbia', country: 'CA' },
   { id: 'BAV', name: '梵蒂冈宗座图书馆', nameEn: 'Biblioteca Apostolica Vaticana', country: 'VA' },
-  { id: 'BAV', name: '梵蒂冈宗座图书馆', nameEn: 'Biblioteca Apostolica Vaticana', country: 'VA' },
-];
+  ];
 
 export const books = [
   // ===== 英国 =====

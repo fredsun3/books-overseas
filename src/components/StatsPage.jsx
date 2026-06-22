@@ -1,10 +1,10 @@
-import { useMemo } from 'react';
+﻿import { useMemo } from 'react';
 import { books, COUNTRIES, getStatistics, INSTITUTIONS } from '../data/books';
 import styles from './StatsPage.module.css';
 
 const COUNTRY_FLAGS = {
   UK: '🇬🇧', FR: '🇫🇷', US: '🇺🇸', JP: '🇯🇵', RU: '🇷🇺',
-  DE: '🇩🇪', KR: '🇰🇷', SE: '🇸🇪', NL: '🇳🇱', AU: '🇦🇺', CA: '🇨🇦',
+  DE: '🇩🇪', KR: '🇰🇷', SE: '🇸🇪', NL: '🇳🇱', AU: '🇦🇺', CA: '🇨🇦', VA: '🇻🇦',
 };
 
 function StatsPage() {
